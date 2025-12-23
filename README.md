@@ -43,10 +43,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radCircle114514&theme=merko" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radCircle114514&layout=compact&theme=merko" alt="Top Languages" />
 </p>
 
