@@ -4,7 +4,7 @@ Thank you for visiting my github homepage, I am glad to see you here
 
 * Love computer technology, keen to discover the world with code, and want to be strong in the open source community
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iznilul&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=radCircle114514&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/radcircle"><img src="https://api.daily.dev/devcards/v2/WhqInAX6ESBuSJsW0Vp5x.png?r=xsz&type=wide" width="652" alt="lawrence Lue's Dev Card"/></a>
 
